@@ -30,15 +30,6 @@ export default function Home() {
     '/20.jpeg',
     '/21.jpeg',
     '/22.jpeg',
-    '/23.jpeg',
-    '/24.jpeg',
-    '/25.jpeg',
-    '/26.jpeg',
-    '/27.jpeg',
-    '/28.jpeg',
-    '/29.jpeg',
-    '/30.jpeg',
-    '/31.jpeg',
   ];
 
   return (
